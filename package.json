@@ -1,9 +1,10 @@
 {
-  "homepage": "https://nmaties.github.io/google-smart-compose-replica/",
+  "homepage": "https://gfhertlein.github.io/google-smart-compose-replica/",
   "name": "google-smart-compose-replica",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tensorflow/tfjs-node": "^1.7.3",
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
